@@ -1,3 +1,7 @@
+### KM Useful commands
+- When ready to build, run "docker-compose build" in the root dir
+- After it's done, run "docker-compose up" to run the app. View the app at http://localhost:5902/. Frontend hits the API to pull list of pizzas.
+
 ## Sample for the Build your first microservice in .NET learn module
 
 Microservice applications are composed of small, independently versioned, and scalable customer-focused services that communicate with each other over standard protocols with well-defined interfaces. Each microservice typically encapsulates simple business logic, which you can scale out or in, test, deploy, and manage independently.  Smaller teams develop a microservice based on a customer scenario and use any technologies that they want to use. This module will teach you how to build your first microservice with .NET.
